@@ -1,0 +1,40 @@
+A* Algorithm 
+Execution Time: 267ms 
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.- 
+Flight #1 (Emirates): 
+From: Los Angeles International Airport - Los Angeles, United States 
+To: Dubai International Airport - Dubai, United Arab Emirates 
+Duration: 13400.08km 
+Time: 17.19h 
+Price: 1381.64$ 
+---------------------------- 
+Flight #2 (Emirates): 
+From: Dubai International Airport - Dubai, United Arab Emirates 
+To: Imam Khomeini International Airport - Tehran, Iran 
+Duration: 1199.86km 
+Time: 1.54h 
+Price: 210.22$ 
+---------------------------- 
+Total Duration: 14599.94km 
+Total Time: 18.72h 
+Total Price: 1591.86$ 
+A* Algorithm 
+Execution Time: 435ms 
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.- 
+Flight #1 (Emirates): 
+From: Los Angeles International Airport - Los Angeles, United States 
+To: Dubai International Airport - Dubai, United Arab Emirates 
+Duration: 13400.08km 
+Time: 17.19h 
+Price: 1381.64$ 
+---------------------------- 
+Flight #2 (Emirates): 
+From: Dubai International Airport - Dubai, United Arab Emirates 
+To: Imam Khomeini International Airport - Tehran, Iran 
+Duration: 1199.86km 
+Time: 1.54h 
+Price: 210.22$ 
+---------------------------- 
+Total Duration: 14599.94km 
+Total Time: 18.72h 
+Total Price: 1591.86$ 

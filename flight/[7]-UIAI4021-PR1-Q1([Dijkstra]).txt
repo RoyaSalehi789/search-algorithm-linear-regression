@@ -1,0 +1,27 @@
+Dijkstra 
+Execution Time:  0.29s 
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.- 
+Flight #1 (Turkish Airlines): 
+From: Imam Khomeini International Airport - Tehran, Iran 
+To: Atatürk International Airport - Istanbul, Turkey 
+Duration: 2040.98km 
+Time: 3.15h 
+Price: 238.35$ 
+---------------------------- 
+Flight #2 (Turkish Airlines): 
+From: Atatürk International Airport - Istanbul, Turkey 
+To: Washington Dulles International Airport - Washington, United States 
+Duration: 8413.02km 
+Time: 10.87h 
+Price: 894.31$ 
+---------------------------- 
+Flight #3 (United Airlines): 
+From: Washington Dulles International Airport - Washington, United States 
+To: Raleigh Durham International Airport - Raleigh-durham, United States 
+Duration: 360.72km 
+Time: 1.13h 
+Price: 53.17$ 
+---------------------------- 
+Total Duration: 10814.72km 
+Total Time: 15.14h 
+Total Price: 1185.82$ 

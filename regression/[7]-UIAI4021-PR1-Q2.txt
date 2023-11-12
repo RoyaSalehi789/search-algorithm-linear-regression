@@ -1,0 +1,8 @@
+PRICE = (0.0 * arrival_time) + (0.0 * departure_time) + (-0.03 * stops) + (-0.37 * class_type) + (0.11 * duration) + (-0.05 * days_left) + -0.91
+Training Time: 120.94s
+
+Logs:
+MSE: 0.002
+RMSE: 0.042
+MAE: 0.02
+R2: 0.896
